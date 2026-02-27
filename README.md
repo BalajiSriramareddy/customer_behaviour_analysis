@@ -32,6 +32,7 @@ The goal of this project is to simulate a **corporate-grade end-to-end data anal
 ```bash
 git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
 cd customer-trends-data-analysis-SQL-Python-PowerBI
+```
 
 ---
 
@@ -41,59 +42,59 @@ Open: Customer_Shopping_Behavior_Analysis.ipynb
 
 This notebook includes:
 
-Data Import
+- Data Import
 
-Data Exploration (EDA)
+- Data Exploration (EDA)
 
-Data Cleaning
+- Data Cleaning
 
-Connection to SQL Database
+- Connection to SQL Database
 
-Loading cleaned data into SQL (MySQL/PostgreSQL/SQL Server)
+- Loading cleaned data into SQL (MySQL/PostgreSQL/SQL Server)
 
 3) Load the cleaned data into SQL (MySQL/PostgreSQL/MS SQL Server)
 
-Create a database in your SQL tool
+- Create a database in your SQL tool
 
-Run the notebook cells that:
+- Run the notebook cells that:
 
-connect to the DB
+  - connect to the DB
 
-create tables (if included)
+  - create tables (if included)
 
-load the cleaned dataset into SQL tables
+  - load the cleaned dataset into SQL tables
 
 4) Run SQL business queries
 
 Open: customer_behavior_sql_queries.sql
 Use the queries to answer business questions such as:
 
-Which categories/items contribute the most revenue?
+- Which categories/items contribute the most revenue?
 
-Which segments show higher loyalty / repeat purchases?
+- Which segments show higher loyalty / repeat purchases?
 
-How do discount/promo usage influence purchase behaviour?
+- How do discount/promo usage influence purchase behaviour?
 
-What are the common payment and shipping preferences?
+- What are the common payment and shipping preferences?
 
 5) Connect SQL Database to Power BI
 
 Open: customer_behavior_dashboard.pbix
 
-Update your server + database credentials
+- Update your server + database credentials
 
-Refresh the data model
+- Refresh the data model
 
-Explore insights using slicers and filters
+- Explore insights using slicers and filters
 
 6) Create the project report and presentation
 
 Write a report summarising:
 
-key findings
+- key findings
 
-charts + KPIs
+- charts + KPIs
 
-business recommendations
+- business recommendations
 
-Build a presentation deck using Gamma AI to communicate insights to stakeholders
+- Build a presentation deck using Gamma AI to communicate insights to stakeholders
