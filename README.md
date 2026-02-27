@@ -34,9 +34,7 @@ git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Pyt
 cd customer-trends-data-analysis-SQL-Python-PowerBI
 ```
 
----
-
-2) Open the Python notebook
+### 2) Open the Python notebook
 
 Open: Customer_Shopping_Behavior_Analysis.ipynb
 
@@ -52,7 +50,7 @@ This notebook includes:
 
 - Loading cleaned data into SQL (MySQL/PostgreSQL/SQL Server)
 
-3) Load the cleaned data into SQL (MySQL/PostgreSQL/MS SQL Server)
+### 3) Load the cleaned data into SQL (MySQL/PostgreSQL/MS SQL Server)
 
 - Create a database in your SQL tool
 
@@ -64,7 +62,7 @@ This notebook includes:
 
   - load the cleaned dataset into SQL tables
 
-4) Run SQL business queries
+### 4) Run SQL business queries
 
 Open: customer_behavior_sql_queries.sql
 Use the queries to answer business questions such as:
@@ -77,7 +75,7 @@ Use the queries to answer business questions such as:
 
 - What are the common payment and shipping preferences?
 
-5) Connect SQL Database to Power BI
+### 5) Connect SQL Database to Power BI
 
 Open: customer_behavior_dashboard.pbix
 
@@ -87,7 +85,7 @@ Open: customer_behavior_dashboard.pbix
 
 - Explore insights using slicers and filters
 
-6) Create the project report and presentation
+### 6) Create the project report and presentation
 
 Write a report summarising:
 
